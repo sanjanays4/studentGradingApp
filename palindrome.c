@@ -19,7 +19,7 @@ int main() {
         printf("%d is not a palindrome.", original);
   
   
-printf("end of the prgm.");
+printf("end of the program.");
     return 0;
 }
 
