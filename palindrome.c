@@ -17,7 +17,9 @@ int main() {
         printf("%d is a palindrome.", original);
     else
         printf("%d is not a palindrome.", original);
-
+  
+  
+printf("end of the prgm.");
     return 0;
 }
 
